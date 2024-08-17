@@ -1,7 +1,7 @@
 ---
 title:          MMGET: a Markov model for generalized evidence theory
 date:           2021-12-12 00:10:00 +0800
-selected:       true
+selected:       false
 pub:            "Computational and Applied Mathematics"
 pub_last:       ' <span class="badge badge-pill badge-info">中科院升级版3区</span> <span class="badge badge-pill badge-custom badge-warning">CCF N</span>'
 pub_date:       "2021"
