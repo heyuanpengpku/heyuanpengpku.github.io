@@ -2,7 +2,7 @@
 title:          Uncertainty Measurement of Basic Probability Assignment Integrity Based on Approximate Entropy in Evidence Theory
 date:           2021-05-16 00:10:00 +0800
 selected:       false
-pub:            "Arxiv"
+pub:            "arXiv"
 pub_last:       ' <span class="badge badge-pill badge-info">Preprint</span>'
 pub_date:       "2021"
 
