@@ -1,54 +1,143 @@
-primary_name: "Your Name"
+primary_name: "Tianxiang Zhan"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Tianxiang Zhan"
 
 positions:
-- logo: /assets/images/badges/PKU_red.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+  - '<span class="no-break"><img src="assets/images/badges/uestc.jpg" alt="University of Electronic Science and Technology of China" class="inline-badge"/></span> M.S., University of Electronic Science and Technology of China (Now)'
+  - '<span class="no-break"><img src="assets/images/badges/swu.jpg" alt="Southwest University" class="inline-badge"/></span> B.S., Southwest University (2023)'
 
-
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: your_google_scholar_id
-github: your_github_id
-twitter: your_twitter_id
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+email: "ztxtech@std.uestc.edu.cn"
+gscholar: bRYz250AAAAJ
+researchgate: Tianxiang-Zhan
+github: ztxtech
+twitter: ztxtechnology
+wechat_qrcode: assets/images/etc/wechat.jpg
+wechat_prompt: >-
+  Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+orcid: 0000-0002-5188-0381
 
 short_bio: >-
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  </p>
-  <p>
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-  </p>
+  <p>Greetings, I am currently pursuing a Master's degree at the University of Electronic Science and Technology of China, with an anticipated graduation date of June 2026. My research focuses on the fields of <b>time series analysis, statistical physics, information theory, and evidence theory</b>. I am deeply passionate about exploring the intersections within these disciplines and addressing the complex challenges they present.</p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+  <p><b>I am actively seeking a fully-funded Ph.D. position in <i>Computer Science</i></b>, where I hope to join a vibrant research community and collaborate with like-minded scholars in pushing the boundaries of scientific knowledge. If my research interests align with yours, or if you see potential for a research collaboration, please feel free to reach out to me via email or WeChat (please indicate the purpose of your contact when messaging).</p>
+
+  <p>I look forward to connecting with you and am excited about the prospect of collectively advancing the field of science.</p>
+
+show_portrait: true
+portrait_url: assets/images/photos/ztx.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Shotted in 2023
 
 education:
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
+- name: University of Electronic Science and Technology of China
+  logo: assets/images/badges/uestc.jpg
+  position: M.S. in Computer Science
+  date: Sep. 2023 - Now
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+- name: Southwest University
+  logo: assets/images/badges/swu.jpg
+  position: B.S. in Software Engineering
+  date: Sep. 2019 - Jul. 2023
 
+experience:
+- name: Chongqing University
+  logo: assets/images/badges/cqu.jpg
+  position: Research Intern
+  date: Sep. 2022 - Now
+
+reviewer:
+- name: Conference and Workshop on Neural Information Processing Systems 2024
+  logo: assets/images/badges/nips.svg
+
+- name: IEEE Access
+  logo: assets/images/badges/access.jpg
+
+# 2023，电子科技大学新生奖学金
+# 2022，西南大学三好学生
+# 2022，西南大学一等奖学金
+# 2022，西南大学砥砺奋斗奖
+# 2022，中国大学生计算机设计大赛省级二等奖
+# 2022，中国高校计算机大赛省级三等奖
+# 2022，重庆市高校数据库应用程序设计竞赛省级三等奖
+# 2021，西南大学三好学生
+# 2021，西南大学一等奖学金
+# 2021，西南大学志愿服务奖
+# 2021，西南大学创新创业奖
+# 2021，美国大学生数学建模比赛二等奖（Honor Mention）
+# 2021，“高教杯”全国大学生数学建模竞赛省级二等奖；
+# 2020，西南大学三好学生
+# 2020，西南大学三等奖学金
+# 2020，第十二届全国大学生数学竞赛重庆赛区二等奖
+
+# 2023, Freshman Scholarship, University of Electronic Science and Technology of China
+# 2022, Southwest University’s Outstanding Student
+# 2022, First-Class Scholarship, Southwest University
+# 2022, Striving and Struggling Award, Southwest University
+# 2022, Second Prize at the Provincial Level, China College Student Computer Design Competition
+# 2022, Third Prize at the Provincial Level, China College Computer Competition
+# 2022, Third Prize at the Provincial Level, Chongqing Higher Education Institutions Database Application Design Competition
+# 2021, Southwest University’s Outstanding Student
+# 2021, First-Class Scholarship, Southwest University
+# 2021, Volunteer Service Award, Southwest University
+# 2021, Innovation and Entrepreneurship Award, Southwest University
+# 2021, Honorable Mention (Second Prize), American College Student Mathematics Modeling Competition
+# 2021, Second Prize at the Provincial Level, “Higher Education Cup” National College Student Mathematics Modeling Competition
+# 2020, Southwest University’s Outstanding Student
+# 2020, Third-Class Scholarship, Southwest University
+# 2020, Second Prize in the Chongqing Division, 12th National College Student Mathematics Competition
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+  - name: Freshman Scholarship, University of Electronic Science and Technology of China
+    date: 2023
+
+  - name: Southwest University's Outstanding Student
+    date: 2022
+
+  - name: First-Class Scholarship, Southwest University
+    date: 2022
+
+  - name: Striving and Struggling Award, Southwest University
+    date: 2022
+
+  - name: Second Prize at the Provincial Level, China College Student Computer Design Competition
+    date: 2022
+
+  - name: Third Prize at the Provincial Level, China College Computer Competition
+    date: 2022
+
+  - name: Third Prize at the Provincial Level, Chongqing Higher Education Institutions Database Application Design Competition
+    date: 2022
+
+  - name: Southwest University's Outstanding Student
+    date: 2021
+
+  - name: First-Class Scholarship, Southwest University
+    date: 2021
+
+  - name: Volunteer Service Award, Southwest University
+    date: 2021
+
+  - name: Innovation and Entrepreneurship Award, Southwest University
+    date: 2021
+
+  - name: Honorable Mention (Second Prize), American College Student Mathematics Modeling Competition
+    date: 2021
+
+  - name: Second Prize at the Provincial Level, "Higher Education Cup" National College Student Mathematics Modeling Competition
+    date: 2021
+
+  - name: Southwest University's Outstanding Student
+    date: 2020
+
+  - name: Third-Class Scholarship, Southwest University
+    date: 2020
+
+  - name: Second Prize in the Chongqing Division, 12th National College Student Mathematics Competition
+    date: 2020
+
+
+# Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
+# if you keep the link to the template so that more people can benefit from it. Thanks!
+footer_text: >-
+  <a href="https://github.com/ztxtech" target="_blank"><i class="fas fa-pencil-ruler"></i> ztxtech's Github</a>
