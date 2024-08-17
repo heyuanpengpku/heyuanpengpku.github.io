@@ -31,11 +31,21 @@ education:
   position: B.S. in Software Engineering
   date: Sep. 2019 - Jul. 2023
 
-# experience:
-# - name: Chongqing University
-#   logo: assets/images/badges/cqu.jpg
-#   position: Research Intern
-#   date: Sep. 2022 - Now
+experience:
+- name: Chongqing University
+  logo: assets/images/badges/cqu.jpg
+  position: Research Intern
+  date: Sep. 2022 - Now
+
+- name: University of Electronic Science and Technology of China
+  logo: assets/images/badges/uestc.jpg
+  position: Research Intern
+  date: Jun. 2021 - Now
+
+- name: Tsinghua Univeristy
+  logo: assets/images/badges/tsinghua.jpg
+  position: Research Intern
+  date: May. 2024 - Now
 
 # reviewer:
 # - name: Conference and Workshop on Neural Information Processing Systems 2024
