@@ -1,7 +1,7 @@
 ---
 title:          TDQMF: Two-Dimensional Quantum Mass Function
 date:           2023-04-01 00:10:00 +0800
-selected:       true
+selected:       false
 pub:            "Information Sciences"
 pub_last:       ' <span class="badge badge-pill badge-info">中科院升级版1区</span> <span class="badge badge-pill badge-custom badge-warning">CCF B</span>'
 pub_date:       "2023"
