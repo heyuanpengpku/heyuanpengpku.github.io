@@ -9,7 +9,7 @@ positions:
 email: "heyuanpeng@stu.pku.edu.cn"
 gscholar: HaefBCQAAAAJ
 researchgate: Yuanpeng-He
-github: heyuanpengpku
+# github: heyuanpengpku
 orcid: 0000-0001-9071-2260
 
 short_bio: >-
@@ -52,5 +52,5 @@ education:
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
-footer_text: >-
-  <a href="https://github.com/heyuanpengpku" target="_blank"><i class="fas fa-pencil-ruler"></i> heyuanpengpku's Github</a>
+# footer_text: >-
+#   <a href="https://github.com/heyuanpengpku" target="_blank"><i class="fas fa-pencil-ruler"></i> heyuanpengpku's Github</a>
