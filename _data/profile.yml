@@ -31,21 +31,26 @@ education:
   position: B.S. in Software Engineering
   date: Sep. 2019 - Jul. 2023
 
+- name: Sichuan Chengdu Shishi High School
+  logo: assets/images/badges/shishi.jpg
+  position: High school students
+  date: Sep. 2016 - Jul. 2019
+
 experience:
+- name: Tsinghua Univeristy
+  logo: assets/images/badges/tsinghua.png
+  position: Research Intern
+  date: May. 2024 - Now
+
 - name: Chongqing University
   logo: assets/images/badges/cqu.jpg
   position: Research Intern
-  date: Sep. 2022 - Now
+  date: Sep. 2022 - Jul. 2023
 
 - name: University of Electronic Science and Technology of China
   logo: assets/images/badges/uestc.jpg
   position: Research Intern
-  date: Jun. 2021 - Now
-
-- name: Tsinghua Univeristy
-  logo: assets/images/badges/tsinghua.jpg
-  position: Research Intern
-  date: May. 2024 - Now
+  date: Jun. 2021 - Jul. 2023
 
 # reviewer:
 # - name: Conference and Workshop on Neural Information Processing Systems 2024
