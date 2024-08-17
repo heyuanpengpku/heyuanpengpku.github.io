@@ -1,5 +1,5 @@
 ---
-title:          MMGET: a Markov model for generalized evidence theory
+title:          MMGET - a Markov model for generalized evidence theory
 date:           2021-12-12 00:10:00 +0800
 selected:       false
 pub:            "Computational and Applied Mathematics"
