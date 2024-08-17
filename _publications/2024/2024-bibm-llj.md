@@ -8,7 +8,8 @@ pub_date:       "2024"
 
 abstract: >-
   
-cover:          
+cover:       
+authors:   
   - Lijian Li
   - Yuanpeng He
   - Chi-Man Pun
