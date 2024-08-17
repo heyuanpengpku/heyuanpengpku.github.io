@@ -1,6 +1,6 @@
 ---
 title:          Mutual Evidential Deep Learning for Semi-supervised Medical Image Segmentation
-date:           2024-01-01 00:10:00 +0800
+date:           2024-04-03 00:10:00 +0800
 selected:       false
 pub:            "IEEE International Conference on Bioinformatics and Biomedicine 2024 (IEEE BIBM 2024)"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-warning">CCF B</span>'
