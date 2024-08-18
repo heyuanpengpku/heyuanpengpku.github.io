@@ -1,5 +1,5 @@
 ---
-title:          TDQMF - Two-Dimensional Quantum Mass Function
+title:          "TDQMF: Two-Dimensional Quantum Mass Function"
 date:           2023-04-01 00:10:00 +0800
 selected:       false
 pub:            "Information Sciences"
