@@ -3,7 +3,7 @@ title:          Efficient Prototype Consistency Learning in Semi-Supervised Medi
 date:           2024-04-03 00:10:00 +0800
 selected:       false
 pub:            "IEEE International Conference on Bioinformatics and Biomedicine 2024 (IEEE BIBM 2024)"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-warning">CCF B</span><span class="badge badge-pill badge-custom badge-primary">Regular Paper</span>''
+pub_last:       ' <span class="badge badge-pill badge-custom badge-warning">CCF B</span><span class="badge badge-pill badge-custom badge-primary">Regular Paper </span>'
 pub_date:       "2024"
 
 abstract: >-
