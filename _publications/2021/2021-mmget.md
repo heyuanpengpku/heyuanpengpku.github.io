@@ -8,7 +8,7 @@ pub_date:       "2021"
 
 abstract: >-
   In real life, lots of information merge from time to time. To appropriately describe actual situations in open world, a generalized evidence theory based on Dempster–Shafer evidence theory is designed. However, everything occurs in sequence and owns some underlying relationships with each other which are missing in this theory. To further embody the details of information and better conform to situations of real world, a Markov model is introduced into the generalized evidence theory which helps extract complete information volume from evidence provided. More specially, the Markov model investigates influences on properties of information given which are brought by dynamic process of transitions among different incidents and provides new solutions in evidence combination, distance measure, reliability measure, and certainty measure. Besides, some numerical examples are offered to verify the correctness and rationality of the proposed method in these relevant aspects.
-cover: 
+cover: assets/images/covers/2021-mmget.jpg
 authors:
   - Yuanpeng He
   - Fuyuan Xiao
