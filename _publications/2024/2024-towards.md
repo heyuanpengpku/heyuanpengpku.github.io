@@ -3,7 +3,7 @@ title:          Towards Realistic Long-tailed Semi-supervised Learning in an Ope
 date:           2024-05-23 00:10:00 +0800
 selected:       false
 pub:            "arXiv"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-warning">CCF N</span>'
+pub_last:       ' <span class="badge badge-pill badge-info">Preprint</span>'
 pub_date:       "2024"
 
 abstract: >-
