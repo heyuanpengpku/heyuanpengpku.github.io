@@ -52,7 +52,7 @@ img.lazy {
 }
 
 .badge-custom {
-    font-size: 100px;
+    font-size: 100px !important;
 }
 
 .email-text {
